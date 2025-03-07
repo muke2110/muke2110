@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Mukesh%20Nagineni&height=100&section=header"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600"/>
-</p>
-
 ## 🚀 About Me
 I'm a **Full Stack Developer** with a strong passion for **server-side development, backend engineering, and system architecture**. I enjoy designing **scalable infrastructures, optimizing performance, and implementing cloud-native solutions**. My expertise lies in building **robust APIs, database management, and integrating DevOps best practices** to enhance efficiency and reliability. I have experience working with **React.js, Node.js, Java, Spring Boot, PostgreSQL, MongoDB, Docker, and Kubernetes**. I love exploring **cloud technologies** and integrating **DevOps** practices into my projects.
 
