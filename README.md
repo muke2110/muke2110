@@ -6,7 +6,7 @@
 I'm a **Full Stack Developer** with a strong passion for **server-side development, backend engineering, and system architecture**. I enjoy designing **scalable infrastructures, optimizing performance, and implementing cloud-native solutions**. My expertise lies in building **robust APIs, database management, and integrating DevOps best practices** to enhance efficiency and reliability. I have experience working with **React.js, Node.js, Java, Spring Boot, PostgreSQL, MongoDB, Docker, and Kubernetes**. I love exploring **cloud technologies** and integrating **DevOps** practices into my projects.
 
 - 💡 Always learning new technologies
-- 🔭 Currently working on **NRoleHub - An event management system**
+- 🔭 Currently working on **ChatBot SAAS**
 - 🌱 Exploring **Kubernetes and AWS**
 - 💬 Ask me about **Backend Development, Cloud, and DevOps**
 - ⚡ Fun fact: I enjoy solving complex system design problems!
