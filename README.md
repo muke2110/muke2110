@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=header&text=Mukesh%20Nagineni&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F5EFB,FC466B&height=100&section=header&text=Mukesh%20Nagineni&fontColor=ffffff&fontSize=30" />
 </p>
 
-<h1 align="center">👋 Hello! I'm Mukesh Nagineni</h1>
-<h2 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🔧 System Design Hobbyist</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FF5E84&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%2F+DevOps+Engineer;System+Design+Enthusiast;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -29,8 +30,7 @@ I'm a **Full Stack Developer** passionate about:
 - 🌩️ AWS Serverless Architecture  
 - 📐 Complex System Design & Distributed Systems  
 
-💬 **Ask me about**: Backend, Cloud Infrastructure, DevOps Pipelines
-
+💬 **Ask me about**: Backend, Cloud Infrastructure, DevOps Pipelines  
 ⚡ **Fun fact**: I enjoy building imaginary large-scale systems... for fun!
 
 ---
@@ -85,5 +85,5 @@ I'm a **Full Stack Developer** passionate about:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F5EFB,FC466B&height=100&section=footer"/>
 </p>
