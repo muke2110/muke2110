@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=header&text=Mukesh%20Nagineni&fontColor=ffffff&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=100&section=header&text=Mukesh%20Nagineni&fontColor=ffffff&fontSize=40" />
 </p>
 
-<h2 align="center">👋 Hello! I'm Mukesh Nagineni</h2>
-<h4 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🔧 System Design Hobbyist</h4>
+<h1 align="center">👋 Hello! I'm Mukesh Nagineni</h1>
+<h2 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🔧 System Design Hobbyist</h2>
 
 ---
 
